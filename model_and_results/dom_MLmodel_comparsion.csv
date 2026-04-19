@@ -1,0 +1,5 @@
+Model,Accuracy (%),Precision (%),Recall (TP Rate) (%),F1-Measure (%),False Negatives,Time (sec)
+Random Forest,93.72500,90.977690,92.433333,91.699735,454,4.095277
+XGBoost,93.52500,90.006447,93.066667,91.510980,416,1.149967
+Neural Net (MLPClassifier),88.59375,81.499925,90.016667,85.546844,599,7.467055
+Logistic Regression,79.81250,70.518519,79.333333,74.666667,1240,0.138079
