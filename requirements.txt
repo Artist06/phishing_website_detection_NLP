@@ -1,0 +1,13 @@
+pandas 
+numpy 
+tldextract 
+tensorflow
+scikit-learn
+xgboost
+torch
+nltk
+beautifulsoup4
+mysql
+pickle
+urllib
+requests
